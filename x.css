@@ -1,0 +1,280 @@
+.img1 {
+    height: 5%;
+    width: 5%;
+
+
+}
+
+.img {
+    height: 8%;
+    width: 8%;
+}
+
+.div1 {
+
+
+    display: block;
+    padding-right: 0;
+
+    border-right: solid 2px grey;
+
+
+}
+
+span {
+    padding-left: 15px;
+    font-size: large;
+    font-family: arial;
+    color: white;
+
+}
+
+.div2 {
+    margin: 20px;
+
+}
+
+.button1 {
+    padding-left: 80px;
+    padding-right: 80px;
+    background-color: rgb(74, 172, 204);
+    border: none;
+    margin: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 50px;
+
+}
+
+body {
+    background-color: black;
+}
+
+#header {
+    display: inline-flex;
+    color: white;
+    border-bottom: solid 2px grey;
+
+}
+
+#big-div {
+
+
+margin-left: 10px;
+    display: inline-flex;
+}
+
+#first-par {
+    margin-left: 90px;
+    font-family: arial;
+    font-size: 14px;
+}
+
+#second-par {
+    margin-left: 200px;
+    font-family: arial;
+    font-size: 14px;
+}
+
+#prof1 {
+    height: 45px;
+    width: 43px;
+    border-radius: 50px;
+    margin-top: 15px;
+}
+
+.header2 {
+    display: inline-flex;
+}
+
+#big-div2 {
+    border-right: solid 1px grey;
+    border-bottom: solid 1px grey;
+
+}
+
+#par-prof {
+    font-family: arial;
+    padding-left: 20px;
+    color: grey;
+    font-size: 20px;
+}
+
+#button2 {
+    background-color: rgb(74, 172, 204);
+    border: none;
+    margin-left: 200px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 50px;
+    height: 40px;
+    margin-top: 15px;
+    color: white;
+    font-weight: bold;
+}
+
+
+.search-container {
+    position: relative;
+    width: 250px;
+    /* Adjust width as needed */
+    padding-left: 10px;
+}
+
+.search-input {
+    width: 100%;
+    padding: 10px 40px 10px 40px;
+    /* Add padding for icon space */
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+    background-color: rgb(27, 26, 26);
+    border: none;
+    padding-right: 10px;
+
+}
+
+.search-input::placeholder {
+    color: #413f3f;
+    /* Placeholder color */
+}
+
+.search-icon {
+    position: absolute;
+    left: 10px;
+    /* Adjust the position of the icon */
+    top: 50%;
+    transform: translateY(-50%);
+    color: #666565;
+    /* Icon color */
+}
+
+.obama {
+    height: 40px;
+    width: 40px;
+    border-radius: 50px;
+}
+
+#obama-paragraph {
+    color: white;
+    padding-left: 15px;
+    font-weight: bold;
+    font-family: arial;
+    font-size: small;
+
+}
+
+#obama-div {
+    display: inline-flex;
+
+}
+
+#obama-paragraph2 {
+    color: grey;
+    padding-left: 25px;
+    font-weight: bold;
+    font-family: arial;
+    font-size: small;
+}
+
+#speech {
+    color: white;
+    text-align: inherit;
+    font-family: arial;
+    font-size: small;
+}
+
+.span {
+    font-size: small;
+    color: rgb(120, 191, 214);
+}
+
+#image1 {
+    height: 135px;
+    width: 200pxpx;
+}
+
+#image2 {
+    height: 135px;
+    width: 200pxpx;
+}
+
+#image3 {
+    height: 135px;
+    width: 200px;
+}
+
+#image4 {
+    height: 136px;
+    width: 200pxpx;
+}
+
+#Subscribe {
+    font-weight: bolder;
+    font-family: arial;
+    font-size: large;
+    color: white;
+}
+
+#part1 {
+    display: block;
+    border: solid grey 1px;
+    border-radius: 12px;
+    margin-top: 20px;
+}
+
+#buttonn3 {
+    margin-left: 11px;
+    border: none;
+    background-color: rgb(44, 165, 206);
+    margin-bottom: 10px;
+    height: 26px;
+    width: 85px;
+    border-radius: 40px;
+    color: white;
+    font-weight: bold;
+}
+
+#trends {
+    font-family: arial;
+    font-size: large;
+    color: white;
+    font-weight: bold;
+
+}
+#part2{
+    border: solid 1px grey;
+    margin-top: 15px;
+    border-radius: 12px;
+}
+#p-trend{
+    color: grey;
+    font-size: 11px;
+    font-family: arial;
+    display: inline-flex;
+   
+}
+#mess-trend{
+    color: white;
+font-weight: bold;
+font-size: 15px;
+}
+ol{
+    list-style-type:none;
+    padding: 0;
+}
+#span2{
+    margin-left: 115px;
+    color: grey;
+}
+#span3{
+    margin-left: 132px;
+    color: grey;
+}
+#span4{
+    margin-left: 135px;
+    color: grey;
+}
